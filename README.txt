@@ -24,4 +24,4 @@ In the current folder, try the following commands.
    3: ./src/survival_interaction.R ./example/VanAllen.Mutation ./example/VanAllen.expression ./example/VanAllen.OS ./example/output_OS_Mutation
    4: ./src/survival_interaction.R ./example/VanAllen.Mutation ./example/VanAllen.expression ./example/VanAllen.PFS ./example/output_PFS_Mutation
 
-Please contact: Peng Jiang (peng.jiang.software@gmail.com) if you have any questions or find some problems.
+
